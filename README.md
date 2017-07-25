@@ -1,5 +1,7 @@
 # chrome-daemon
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/amio/chrome-daemon.svg)](https://greenkeeper.io/)
+
 Manage Google Chrome with Node.js.
 
 ## Install
